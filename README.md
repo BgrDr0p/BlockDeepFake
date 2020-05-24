@@ -2,11 +2,7 @@
 Proposition pour mémoire de l'utilisation d'IPFS et de la Blockchain pour contrer les deepfakes
 
 
-## Pré requis
-* Node JS avec Chocolatey : https://nodejs.org/en/
-* Truffle : https://www.trufflesuite.com/docs/truffle/getting-started/installation
-* Ganache : https://www.trufflesuite.com/ganache
-* Extension MetaMask : https://metamask.io/
+
 
 ##  Pré requis
 
