@@ -35,5 +35,8 @@ Sur l'extension MetaMask :
 - Entrer sur dans nom du réseau et Nouvelle URL de RPC, l'adresse renseigné sur Ganache dans la rubrique RCP SERVER
 - Sur MetaMask, cliquez sur importez une adresse et coller une clé privée ( dessin en forme de clé) d'une des adresses proposé par Ganache
 
-Pour finir, lancez le projet avec npm run start
+Pour finir, lancez le projet avec 
 
+```
+npm run start
+```
