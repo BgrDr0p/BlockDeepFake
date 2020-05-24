@@ -8,15 +8,27 @@ Truffle : https://www.trufflesuite.com/docs/truffle/getting-started/installation
 Ganache : https://www.trufflesuite.com/ganache
 Extension MetaMask : https://metamask.io/
 
+##  Pré requis
+
+* [Node JS avec Chocolatey ](https://nodejs.org/en/) - environnement d'exécution
+* [Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/installation) - Framework Web
+* [Ganache](https://www.trufflesuite.com/ganache) - Ethereum blockchain 
+* [MetaMask](https://metamask.io/) - MetaMask est une extension pour accéder au applications utilisant Ethereum
+
+
+
 # Cloner le projet 
 
 git clone https://github.com/ElHassanBaghrar/BlockDeepFake.git
 
 
 # installer les dépendances
-
+```
 npm install
+```
+```
 npm install ipfs-http-client@33.1.1
+```
 
 # Pour lancer le projet
 
